@@ -1,7 +1,7 @@
 package EsimeneHalloMaailm;
 
 /**
- * Created by root on 9/13/15.
+ * Created by Siim Kallari on 13/9/2015..
  */
 public class Konditsioon {
     public static void main(String[] args) {
