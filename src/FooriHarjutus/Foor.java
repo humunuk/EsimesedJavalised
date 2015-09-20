@@ -59,7 +59,7 @@ public class Foor {
         // Iga muutuse kohta peab olema paus, et loend oleks õige.
         // 0 toob mingi bugi sisse, kus tuled vahel ei reageeri
         if (pausid.size() < fooriMuutumisi) {
-            paus(0.1);
+            paus(0.01);
         }
 
         // Leia timeout
